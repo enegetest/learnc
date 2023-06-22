@@ -22,4 +22,12 @@ The repository is organized as follows:
 - `docs/`: Provides additional documentation or notes related to the learning process.
 
 ## Resources and Tools
+* [Introduction to Programming and Computer Science - Full Course - Freecodecamp Youtube](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 
+* [C Programming Language, 2nd Edition](https://github.com/auspbro/ebook-c/blob/master/The.C.Programming.Language.2Nd.Ed%20Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie..pdf)
+
+* [Learn C | Codecademy](https://www.codecademy.com/learn/paths/c)
+
+* [Week 1 C - CS50x 2023](https://cs50.harvard.edu/x/2023/weeks/1/)
+
+* [Learn C in Y Minutes](https://learnxinyminutes.com/docs/c/)
