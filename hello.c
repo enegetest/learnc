@@ -5,5 +5,5 @@
 int main ()
 {
     // output a line
-    printf("Hellow world!\n");
+    printf("Hello world!\n");
 }   
