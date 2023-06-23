@@ -4,7 +4,6 @@
 
 int main ()
 {
-    printf("Hellow world\n");
-    return 0;
-
+    // output a line
+    printf("Hellow world!\n");
 }   
